@@ -1,3 +1,3 @@
-ansible==1.9.0.1
+ansible==2.6.18
 dopy==0.3.3
 boto==2.38.0
